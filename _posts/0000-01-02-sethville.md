@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to the second slide!"
 ---
-:+1:
+:point_left:
 Use the left arrow to go back! We have to go back!
